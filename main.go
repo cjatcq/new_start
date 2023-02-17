@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/cjatcq/new_test"
+)
 
 func main() {
-	fmt.Println("a")
+	new_test.TesNew()
 }
